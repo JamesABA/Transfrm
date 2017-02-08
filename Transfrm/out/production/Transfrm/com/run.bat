@@ -1,0 +1,1 @@
+java com.ba.xslttransform.Xtran -xslt ..\..\..\cwt_template.xslt -xml ..\..\..\LIRMA_Lead_2 -out lirm_cwt_ucr1234.xml -xsd ..\..\..\TriggerFile.xsd

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TriggerFile>
+    <Header>
+        <Identifier>HDR</Identifier>
+        <DataSource/>
+        <MessageID>1234567</MessageID>
+        <EventCount>1</EventCount>
+        <RunDateTime>12122016T09:47:46</RunDateTime>
+    </Header>
+    <TriggerRecord>
+        <Event_Ref_Num>1234567</Event_Ref_Num>
+        <Bureau>LR</Bureau>
+        <UCR>Bnotfound</UCR>
+        <TransactionReference>B0999991</TransactionReference>
+        <LogFile>RUDA</LogFile>
+        <ActionParticipantType>B</ActionParticipantType>
+        <ActionParticipant>1111</ActionParticipant>
+        <ActionDatetime>06072012T09:30:22</ActionDatetime>
+        <DateAdded>30042012</DateAdded>
+        <TimeAdded>13:21:24</TimeAdded>
+        <Company_SyndicateIdentification>G8006</Company_SyndicateIdentification>
+        <ClaimLineNumber>1</ClaimLineNumber>
+        <ActionTypeQual>AAA</ActionTypeQual>
+        <ActionTypeSubType>AAA</ActionTypeSubType>
+        <ActionTypeResponse>AAA</ActionTypeResponse>
+        <ActionCode>A</ActionCode>
+        <ResponseCode>AUT</ResponseCode>
+        <UniqueMarketReference>B1078AV1000902</UniqueMarketReference>
+        <TransactionStatus>10</TransactionStatus>
+        <TransactionType>A</TransactionType>
+        <ECFIndicator>Y</ECFIndicator>
+        <Company_SyndicateSignedLinepct>6</Company_SyndicateSignedLinepct>
+        <CarrierReference1>31292A101AAV</CarrierReference1>
+        <CarrierReference2/>
+        <Role>LEAD</Role>
+        <Amounts>
+            <Outstanding_Indemnity>0.00</Outstanding_Indemnity>
+            <PreviouslyPaid_OrigCcy_100pctOfOrder>0.00</PreviouslyPaid_OrigCcy_100pctOfOrder>
+            <Incurred_OrigCcy_100pctOfOrder>0</Incurred_OrigCcy_100pctOfOrder>
+            <Settlement_OrigCcy>0</Settlement_OrigCcy>
+            <OriginalCurrency>USD</OriginalCurrency>
+            <RateOfExchange>0</RateOfExchange>
+            <OutstandingQualifier>C</OutstandingQualifier>
+        </Amounts>
+        <RiskCode_LloydsOnly/>
+        <LloydsCatCode/>
+        <PCSCode/>
+        <LossDateFrom>10112010</LossDateFrom>
+        <LossDateTo/>
+        <ClaimsRef1>31292A101AAV</ClaimsRef1>
+        <ClaimsRef2/>
+        <YearOfAccount_LloydsOnly>2010</YearOfAccount_LloydsOnly>
+        <Insured>SWISS HELICOPTERS ( HELISWISS)</Insured>
+        <Reinsured/>
+        <LossName>SWISS HELI 2</LossName>
+        <UserID/>
+        <SlipLead>5555</SlipLead>
+        <BrokerIdentification>118</BrokerIdentification>
+        <BrokerContact>ABRAMS MARTIN</BrokerContact>
+        <IUALossCodes/>
+        <TotalNumberOfAgreementParties>2</TotalNumberOfAgreementParties>
+        <BureauLead_Lloyds/>
+        <SecondAgreementParty_Lloyds/>
+        <BureauLead_ILU/>
+        <SecondAgreementParty_ILU/>
+        <BureauLead_LIRMA>2003</BureauLead_LIRMA>
+        <Claim_Cat/>
+        <Sequence_Num>001</Sequence_Num>
+        <Triage_Category>Not Specified</Triage_Category>
+    </TriggerRecord>
+</TriggerFile>

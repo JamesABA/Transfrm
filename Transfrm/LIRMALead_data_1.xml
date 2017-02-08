@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestData>
+    <Header>
+        <MessageId>12345</MessageId>
+
+    </Header>
+    <TriggerRecord>
+        <Event_Ref_Num>99991</Event_Ref_Num>
+        <Bureau>LR</Bureau>
+        <UCR>B018028383</UCR>
+        <TransactionReference>B0509001</TransactionReference>
+		<ActionParticipantType>C</ActionParticipantType>
+        <ActionParticipant>urn:lirma:G8006</ActionParticipant>
+        <Company_SyndicateIdentification>G8006</Company_SyndicateIdentification>
+        <ClaimLineNumber>2</ClaimLineNumber>
+        <ActionCode>A</ActionCode>
+		<ResponseCode>REJ</ResponseCode>
+        <UniqueMarketReference>B0180M110431</UniqueMarketReference>
+        <TransactionStatus>12</TransactionStatus>
+        <TransactionType>A</TransactionType>
+        <ECFIndicator>Y</ECFIndicator>
+        <Company_SyndicateSignedLinepct>6</Company_SyndicateSignedLinepct>
+        <CarrierReference1>43815A112AMA</CarrierReference1>
+        <CarrierReference2></CarrierReference2>
+        <Role>LEAD</Role>
+
+        <Amounts>
+            <Outstanding_Indemnity>0.00</Outstanding_Indemnity>
+            <PreviouslyPaid_OrigCcy_100pctOfOrder>0.00</PreviouslyPaid_OrigCcy_100pctOfOrder>
+            <Incurred_OrigCcy_100pctOfOrder>20103722.02</Incurred_OrigCcy_100pctOfOrder>
+            <Settlement_OrigCcy>20103722.02</Settlement_OrigCcy>
+            <OriginalCurrency>USD</OriginalCurrency>
+            <RateOfExchange>1235.6997000</RateOfExchange>
+            <OutstandingQualifier>C</OutstandingQualifier>
+        </Amounts>
+
+        <RiskCode_LloydsOnly></RiskCode_LloydsOnly>
+        <LloydsCatCode/>
+        <PCSCode/>
+        <LossDateFrom>10112010</LossDateFrom>
+        <LossDateTo/>
+        <ClaimsRef1>43815A112AMA</ClaimsRef1>
+        <ClaimsRef2/>
+        <YearOfAccount_LloydsOnly></YearOfAccount_LloydsOnly>
+        <Insured>TIDEWATER INC.</Insured>
+        <Reinsured>PENTAL INSURANCE CO LTD</Reinsured>
+        <LossName>WAYNE MONTGOMERY</LossName>
+        <UserID>SINGHK</UserID>
+        <SlipLead>2003</SlipLead>
+        <BrokerIdentification>180</BrokerIdentification>
+        <BrokerContact>CLAIRE TOWNSEND</BrokerContact>
+        <IUALossCodes>no</IUALossCodes>
+        <TotalNumberOfAgreementParties>2</TotalNumberOfAgreementParties>
+        <BureauLead_Lloyds>2003</BureauLead_Lloyds>
+        <SecondAgreementParty_Lloyds>2003</SecondAgreementParty_Lloyds>
+        <BureauLead_ILU>2003</BureauLead_ILU>
+        <SecondAgreementParty_ILU>2003</SecondAgreementParty_ILU>
+        <BureauLead_LIRMA>2003</BureauLead_LIRMA>
+        <Claim_Cat>L</Claim_Cat>
+        <Sequence_Num>001</Sequence_Num>
+
+
+    </TriggerRecord>
+
+</TestData>
